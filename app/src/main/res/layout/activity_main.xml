@@ -96,9 +96,10 @@
 
 
     <CheckBox
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="(선택)마케팅 약관에 동의합니다." />
+        android:layout_width="44dp"
+        android:layout_height="46dp"
+        android:text="(선택)마케팅 약관에 동의합니다."
+        android:visibility="gone" />
 
     <Button
         android:layout_width="match_parent"
